@@ -10,13 +10,14 @@
 
     <div class="row">
         <div class="col-md-4">
-            <h2>Getting started</h2>
+            <h2>Random Words</h2>
             <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
+                A chemical grabs the director. The pregnant envy clicks beneath every on lawyer. 
+                A hysterical fish distances an intolerance over an upsetting holy. The miracle aborts the model. 
+                The current architecture steels a tone. Why can't the quality friendship enhance the scratch?
             </p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
+                <a class="btn btn-default" href="http://watchout4snakes.com/">Learn more &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
